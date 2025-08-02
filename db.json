@@ -1,1 +1,6 @@
-[{"title":"Genetic Routing Algorithm for TSP", "summary": "A genetic drone router contributed to a project focused on solving TSP", "url": "post/2025-07-10-genetic-algo-1.html", "imgsrc": "assets/genetic-algo.jpg"}, {"title":"Hello World", "summary": "An introductory post", "url": "post/2025-07-01-hello-world.html", "imgsrc": "assets/profile.png"}]
+{
+  posts: [
+  {"title":"Genetic Routing Algorithm for TSP", "summary": "A genetic drone router contributed to a project focused on solving TSP", "url": "post/2025-07-10-genetic-algo-1.html", "imgsrc": "assets/genetic-algo.jpg"},
+  {"title":"Hello World", "summary": "An introductory post", "url": "post/2025-07-01-hello-world.html", "imgsrc": "assets/profile.png"}
+  ]
+}
